@@ -243,6 +243,10 @@ body {
       width: 100%;
       height: auto;
     }
+    .work h3 {
+      position: absolute;
+      width: 100%;
+    }
   }
 
  
